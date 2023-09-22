@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Nhi's gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<img href="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="100">
 # Nhi Nguyen
 #### I'm studying Web Development at Humber College in Canada
 This is my profile's image
