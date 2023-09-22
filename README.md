@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="180">
-<img src="/image/new.jpg">
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="180">|<img src="/image/new.jpg">
+
 # Nhi Nguyen
 #### 🌱 I'm studying Web Development at Humber College in Canada
-This is my profile's image
 
 
 <!-- ![Nhi's profile image](/image/new.jpg "nhi's background")-->
