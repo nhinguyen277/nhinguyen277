@@ -1,4 +1,5 @@
 ### Hi there 👋
+                                [![An old rock in the desert]](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
                                 ![Nhi's gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 # Nhi Nguyen
 #### I'm studying Web Development at Humber College in Canada
