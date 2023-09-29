@@ -8,7 +8,7 @@
 #### 🌱 I'm studying Web Development at Humber College in Canada
 <!-- <img src="/image/new.jpg"> -->
 
-<!-- ![Nhi's profile image](/image/new.jpg "nhi's background")-->
+![Nhi's profile image](/image/new.jpg "nhi's background")
 
 <!--
 **nhinguyen277/nhinguyen277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
